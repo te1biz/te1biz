@@ -1,0 +1,225 @@
+{
+ "key": "7d71f63a",
+ "stars": 1,
+ "contributions": 248,
+ "repos": 8,
+ "followers": 1,
+ "languages": [
+  [
+   "Python",
+   63557
+  ],
+  [
+   "HTML",
+   20488
+  ],
+  [
+   "CSS",
+   8902
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 28,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 27,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "WebEducation",
+   "url": "https://github.com/D0UP1G/WebEducation",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "homework",
+   "url": "https://github.com/te1biz/homework",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "FirsterChuv",
+   "url": "https://github.com/D0UP1G/FirsterChuv",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "homework",
+   "url": "https://github.com/te1biz/homework",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "te1biz",
+   "url": "https://github.com/te1biz/te1biz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "project1",
+   "url": "https://github.com/te1biz/project1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "-",
+   "url": "https://github.com/te1biz/-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mebele-gov",
+   "url": "https://github.com/te1biz/mebele-gov",
+   "text": "no",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "my-personal-page",
+   "url": "https://github.com/te1biz/my-personal-page",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "singularity",
+   "url": "https://github.com/te1biz/singularity",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mwe",
+   "url": "https://github.com/te1biz/mwe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
