@@ -1,80 +1,59 @@
-<!-- HEADER & TELEMETRY -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr valign="middle">
-    <td>
-      <a href="https://github.com/te1biz">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2400&pause=1200&color=EDEDED&width=460&height=46&lines=%3E_te1biz;%3E_easy+revenge!" alt="te1biz" />
-      </a>
-      <br />
-      <samp style="color: #8B949E; font-size: 13px;">PRODUCT ENGINEERING &nbsp;·&nbsp; NEURAL NETWORKS</samp>
-    </td>
-    <td align="right">
-      <a href="https://t.me/telbiz">
-        <img src="https://img.shields.io/badge/TELEGRAM-@telbiz-EDEDED?style=flat-square&logo=telegram&logoColor=090A0C&labelColor=161B22" alt="Telegram" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/DISCORD-telbiz-EDEDED?style=flat-square&logo=discord&logoColor=090A0C&labelColor=161B22" alt="Discord" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./arch.jpg" width="220" alt="arch linux" />
+  <br />
+  <br />
+  <h1>te1biz</h1>
+  <p><b>Product Engineering &nbsp;·&nbsp; Neural Networks</b></p>
+  <p><i>«easy revenge!»</i></p>
+
+  <p>
+    <a href="https://t.me/telbiz">
+      <img src="https://cdn.simpleicons.org/telegram/EDEDED" width="14" height="14" valign="middle" />
+      <samp>@telbiz</samp>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/discord/71717A" width="14" height="14" valign="middle" />
+    <samp>telbiz</samp>
+  </p>
+</div>
+
+<br />
 
 ---
 
-### <samp>01 // OPERATOR SPECIFICATION</samp>
+### 01 // About
 
-| FIELD | ATTRIBUTE | REGISTRY DETAIL |
-| :--- | :--- | :--- |
-| `IDENTITY` | **17 y.o.** | `Operator / Student` |
-| `ACADEMIC` | **2nd Year CS Student** | `Active Enrollment` |
-| `MAJOR` | **Python Development** | `Core Architecture & Systems` |
-| `DOMAIN` | **Product Engineering** | `End-to-End Implementation` |
-| `RESEARCH` | **Neural Networks** | `Machine Learning & Deep Architectures` |
+* **Operator:** 17 y.o.
+* **Status:** 2nd Year CS Student
+* **Major:** Python Development
+* **Focus:** Product Engineering
+* **Interest:** Neural Networks
 
 ---
 
-### <samp>02 // STACK & TOOLCHAIN</samp>
+### 02 // Stack & Toolchain
 
-<table width="100%" border="0">
-  <tr>
-    <td width="25%" align="left">
-      <img src="https://cdn.simpleicons.org/python/EDEDED" width="16" height="16" valign="middle" />
-      &nbsp;<b>Python</b><br>
-      <sub><samp>Core language & logic</samp></sub>
-    </td>
-    <td width="25%" align="left">
-      <img src="https://cdn.simpleicons.org/poetry/A1A1AA" width="16" height="16" valign="middle" />
-      &nbsp;<b>Poetry</b><br>
-      <sub><samp>Virtual environments</samp></sub>
-    </td>
-    <td width="25%" align="left">
-      <img src="https://cdn.simpleicons.org/git/A1A1AA" width="16" height="16" valign="middle" />
-      &nbsp;<b>Git</b><br>
-      <sub><samp>Version control & sync</samp></sub>
-    </td>
-    <td width="25%" align="left">
-      <img src="https://cdn.simpleicons.org/html5/A1A1AA" width="16" height="16" valign="middle" />
-      &nbsp;<b>HTML5</b><br>
-      <sub><samp>Structure & templates</samp></sub>
-    </td>
-  </tr>
-</table>
+* <img src="https://cdn.simpleicons.org/python/EDEDED" width="15" height="15" valign="middle" /> &nbsp; **Python** &nbsp;— core programming language
+* <img src="https://cdn.simpleicons.org/poetry/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **Poetry** &nbsp;— dependency & environment manager
+* <img src="https://cdn.simpleicons.org/git/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **Git** &nbsp;— version control & workflows
+* <img src="https://cdn.simpleicons.org/html5/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **HTML5** &nbsp;— semantic markup & layout
 
 ---
 
-### <samp>03 // MOUNTED REPOSITORIES</samp>
+### 03 // Repositories
 
-| REPOSITORY | SCOPE & DESCRIPTION | ACCESS |
-| :--- | :--- | :--- |
-| **[WebEducation](https://github.com/D0UP1G/WebEducation)** | Educational backend service platform and request routing | [`D0UP1G/WebEducation ↗`](https://github.com/D0UP1G/WebEducation) |
-| **[FirsterChuv](https://github.com/D0UP1G/FirsterChuv)** | Collaborative modular logic and system integration | [`D0UP1G/FirsterChuv ↗`](https://github.com/D0UP1G/FirsterChuv) |
-| **[homework](https://github.com/telbiz/homework)** | Algorithmic implementations and structural labs | [`telbiz/homework ↗`](https://github.com/telbiz/homework) |
+* **[WebEducation ↗](https://github.com/D0UP1G/WebEducation)**  
+  Modular platform infrastructure and backend services.
+
+* **[FirsterChuv ↗](https://github.com/D0UP1G/FirsterChuv)**  
+  Collaborative architecture and shared service components.
+
+* **[homework ↗](https://github.com/telbiz/homework)**  
+  Algorithms, system design experiments, and core logic.
 
 ---
 
-### <samp>04 // EXECUTION LOG</samp>
+### 04 // Runtime
 
 ```bash
-$ poetry run python -m runtime.main
-> [OK] Environment mounted: Python 3.12 (virtualenv via Poetry)
-> [OK] Target systems: Neural Networks // Product Engineering
-> [OK] git status -- working tree clean
+$ poetry run python main.py
