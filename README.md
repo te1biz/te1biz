@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="./arch.jpg" width="220" alt="arch linux" />
-  <br />
-  <br />
+  <img src="./arch.jpg" width="200" alt="arch linux" />
+  <br /><br />
   <h1>te1biz</h1>
   <p><b>Product Engineering &nbsp;·&nbsp; Neural Networks</b></p>
-  <p><i>«easy revenge!»</i></p>
+  <p><sub><i>«easy revenge!»</i></sub></p>
 
   <p>
     <a href="https://t.me/telbiz">
@@ -21,7 +20,7 @@
 
 ---
 
-### 01 // About
+### About
 
 * **Operator:** 17 y.o.
 * **Status:** 2nd Year CS Student
@@ -31,29 +30,27 @@
 
 ---
 
-### 02 // Stack & Toolchain
+### Stack & Tooling
 
-* <img src="https://cdn.simpleicons.org/python/EDEDED" width="15" height="15" valign="middle" /> &nbsp; **Python** &nbsp;— core programming language
-* <img src="https://cdn.simpleicons.org/poetry/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **Poetry** &nbsp;— dependency & environment manager
-* <img src="https://cdn.simpleicons.org/git/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **Git** &nbsp;— version control & workflows
-* <img src="https://cdn.simpleicons.org/html5/A1A1AA" width="15" height="15" valign="middle" /> &nbsp; **HTML5** &nbsp;— semantic markup & layout
-
----
-
-### 03 // Repositories
-
-* **[WebEducation ↗](https://github.com/D0UP1G/WebEducation)**  
-  Modular platform infrastructure and backend services.
-
-* **[FirsterChuv ↗](https://github.com/D0UP1G/FirsterChuv)**  
-  Collaborative architecture and shared service components.
-
-* **[homework ↗](https://github.com/telbiz/homework)**  
-  Algorithms, system design experiments, and core logic.
+<p>
+  <img src="https://cdn.simpleicons.org/python/EDEDED" width="16" height="16" valign="middle" /> &nbsp;<samp>Python</samp>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/poetry/A1A1AA" width="16" height="16" valign="middle" /> &nbsp;<samp>Poetry</samp>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/A1A1AA" width="16" height="16" valign="middle" /> &nbsp;<samp>Git</samp>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/A1A1AA" width="16" height="16" valign="middle" /> &nbsp;<samp>HTML5</samp>
+</p>
 
 ---
 
-### 04 // Runtime
+### Projects
+
+* **[WebEducation](https://github.com/D0UP1G/WebEducation)** <sup>↗</sup>
+* **[FirsterChuv](https://github.com/D0UP1G/FirsterChuv)** <sup>↗</sup>
+* **[homework](https://github.com/telbiz/homework)** <sup>↗</sup>
+
+---
 
 ```bash
 $ poetry run python main.py
