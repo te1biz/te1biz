@@ -1,4 +1,6 @@
 <!-- Анимированный терминальный заголовок -->
+
+
 <a href="https://github.com/te1biz"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=FFFFFF&width=480&height=42&lines=%3E_te1biz;%3E_backend" alt="te1biz" /></a>
 <br />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=1200&color=8B949E&width=520&height=24&lines=Python+Developer;Product+Development+%C2%B7+Neural+Networks" alt="Status" />
