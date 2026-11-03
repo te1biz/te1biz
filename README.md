@@ -54,5 +54,4 @@
 
 <br /><br />
 
-> *«All devils die. Keep moving.»*  
 > <sub>te1biz &nbsp;·&nbsp; <i>«easy revenge!»</i></sub>
