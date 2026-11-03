@@ -46,12 +46,6 @@
   </a>
 </p>
 
----
 
-## 03 // runtime
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1400&color=8B949E&width=520&height=26&lines=%24+poetry+run+python+main.py;%24+git+status+--+working+tree+clean" alt="Terminal" />
-
-<br /><br />
 
 > <sub>te1biz &nbsp;·&nbsp; <i>«easy revenge!»</i></sub>
